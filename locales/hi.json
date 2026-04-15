@@ -1,0 +1,10 @@
+{
+  "hi": {
+    "label": "हिन्दी (Hindi)",
+    "llmInstruction": "कृपया हिंदी में उत्तर दें।"
+  },
+  "en-IN": {
+    "label": "English (Indian)",
+    "llmInstruction": "Please respond in English with Indian context and cultural references."
+  }
+}

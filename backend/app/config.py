@@ -32,7 +32,12 @@ class Config:
     LLM_BASE_URL = os.environ.get('LLM_BASE_URL', 'https://api.openai.com/v1')
     LLM_MODEL_NAME = os.environ.get('LLM_MODEL_NAME', 'gpt-4o-mini')
     
+    # Qwen AI 配置（Smart-Talk Chatbot 专用）
+    QWEN_API_KEY = os.environ.get('QWEN_API_KEY')
+    QWEN_BASE_URL = os.environ.get('QWEN_BASE_URL', 'https://dashscope.aliyuncs.com/compatible-mode/v1')
+    QWEN_MODEL_NAME = os.environ.get('QWEN_MODEL_NAME', 'qwen-plus')
     # Zep配置
+
     ZEP_API_KEY = os.environ.get('ZEP_API_KEY')
     
     # 文件上传配置
