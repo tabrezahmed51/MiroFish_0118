@@ -662,4 +662,73 @@
     "generateInterviewQuestionsFailed": "Failed to generate interview questions: {error}",
     "generateInterviewSummaryFailed": "Failed to generate interview summary: {error}"
   }
+  ,
+  "smartTalk": {
+    "title": "Smart-Talk: Indian Open Discussion",
+    "emotionalMode": "Select Emotional Mode",
+    "angryMode": "Angry (Roit Style)",
+    "cricketEmotional": "Cricket Emotions 🏏",
+    "budgetEmotional": "Budget Reactions 💰",
+    "festivalHappy": "Festival Celebrations 🎉",
+    "familyDevastating": "Family Crisis 💔",
+    "betrayalSad": "Betrayal & Sadness 😢",
+    "mourningMode": "Mourning Period 🕯️",
+    
+    "selectTopic": "Choose Discussion Topics",
+    "topicPlaceholder": "Search topics...",
+    
+    "targetAudience": "Target Audience",
+    "ageGroup": "Age Group",
+    "allAges": "All Ages",
+    "teenageStudents": "Teenage Students (13-19)",
+    "adultPostGrad": "Adult Post-Grad (20-30)",
+    "millennials": "Millennials (28-42)",
+    "seniorCitizens": "Senior Citizens (60+)",
+    
+    "gender": "Gender Identity",
+    "allGenders": "All Genders",
+    "male": "Male",
+    "female": "Female",
+    "transgender": "Transgender",
+    "nonBinary": "Non-Binary",
+    "preferNotToSay": "Prefer Not to Say",
+    
+    "region": "Regional Focus",
+    "allRegions": "All India",
+    "northIndia": "North India",
+    "southIndia": "South India",
+    "eastIndia": "East India",
+    "westIndia": "West India",
+    "centralIndia": "Central India",
+    "northeastIndia": "Northeast India",
+    
+    "environmentalContext": "Environmental Context",
+    "raining": "Raining 🌧️",
+    "drizzling": "Drizzling ☔",
+    "sunnyDay": "Sunny Day ☀️",
+    "cloudyDay": "Cloudy Day ☁️",
+    
+    "winter": "Winter ❄️",
+    "monsoon": "Monsoon 🌦️",
+    "summer": "Summer ☀️",
+    "autumn": "Autumn 🍂",
+    
+    "languagePreference": "Language Preference",
+    "startDiscussion": "Start Smart-Talk Discussion 🚀",
+    
+    "topics": {
+      "sensex": "Sensex / Stock Market",
+      "elections": "Elections & Politics",
+      "investments": "Investments",
+      "business": "Business & Startups",
+      "cricket": "Cricket (IPL, International)",
+      "football": "Football (ISL)",
+      "festivals": "Festivals & Celebrations",
+      "bollywood": "Bollywood & Entertainment",
+      "education": "Education System",
+      "healthcare": "Healthcare",
+      "technology": "Technology & AI",
+      "environment": "Environment & Climate"
+    }
+  }
 }
